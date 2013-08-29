@@ -1,0 +1,45 @@
+body {
+	background-color: #310433;
+	color: #6F5071;
+	font-family: 'Amaranth', sans-serif;
+	font-size: 2em;
+	padding-top: 60px;
+}
+
+#main_message {
+	color: white;
+	font-size: 1.4em;
+	text-align: justify;
+}
+
+#subtitle {
+	font-size: 0.5em;
+	text-align: right;
+}
+
+#redirection {
+	padding-top: 40px;
+}
+
+#redirection a{
+	background-color: white;
+	color: #310433;
+	display: block;
+	font-size: 1.1em;
+	padding: 2px 0px;
+	text-align: center;
+	text-decoration: none;
+}
+
+#background_301 {
+	color: #461E48;
+	font-size: 8em;
+}
+
+#background_moved {
+	color: #461E48;
+	display: block;
+	font-size: 2em;
+	padding-top: 110px;
+	text-align: right;
+}
