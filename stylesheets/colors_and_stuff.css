@@ -1,7 +1,7 @@
 body {
 	background-color: #310433;
 	color: #6F5071;
-	font-family: 'Amaranth', sans-serif;
+	font-family: 'Bree Serif', serif;
 	font-size: 2em;
 	padding-top: 60px;
 }
@@ -33,12 +33,14 @@ body {
 
 #background_301 {
 	color: #461E48;
+	font-family: 'Raleway', sans-serif;
 	font-size: 8em;
 }
 
 #background_moved {
 	color: #461E48;
 	display: block;
+	font-family: 'Raleway', sans-serif;
 	font-size: 2em;
 	padding-top: 110px;
 	text-align: right;
